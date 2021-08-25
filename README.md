@@ -7,3 +7,4 @@ Gerência de Configuração NExT
 
 *Sou engenheira de producao
 *Tenho dois gatos que se chamam Chicó e João Grilo
+*Eu sou noiva
